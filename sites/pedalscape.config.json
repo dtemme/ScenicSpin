@@ -42,6 +42,9 @@
   "sisterSiteActivity": "walking",
   "activityDevice": "bike",
   "localeOverrides": {
+    "de": {
+      "sister_site_activity": "Wandern"
+    },
     "es": {
       "sister_site_activity": "caminar"
     },

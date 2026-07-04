@@ -42,6 +42,18 @@
   "sisterSiteActivity": "cycling",
   "activityDevice": "treadmill",
   "localeOverrides": {
+    "de": {
+      "activity_noun_singular": "Wanderung",
+      "activity_noun_plural": "Wanderungen",
+      "activity_noun_singular_cap": "Wanderung",
+      "activity_noun_plural_cap": "Wanderungen",
+      "activity_verb": "Wander",
+      "activity_verb_cap": "Laufband",
+      "activity_device": "Laufband",
+      "sister_site_activity": "Radfahren",
+      "footer_title": "{{site_name}} hält das Wandern einfach.",
+      "catalog_result_count_other": "{{count}} Wanderungen"
+    },
     "es": {
       "activity_noun_singular": "caminata",
       "activity_noun_plural": "caminatas",
